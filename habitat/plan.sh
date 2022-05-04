@@ -13,7 +13,7 @@
 # visit the Habitat Builder depot at https://bldr.habitat.sh/#/pkgs.
 
 pkg_name=sample-node-app
-pkg_origin=temp
+pkg_origin=test1
 pkg_version="1.1.0"
 pkg_deps=(core/node)
 
